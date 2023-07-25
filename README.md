@@ -1,5 +1,8 @@
-### Hi there 👋
+ Hi I'm Pavithra there 👋
 
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+Linkedin Badge Medium Badge Website Badge Twitter Badge Instagram Badge Gmail Badge
 <!--
 **Pavithra-1502/Pavithra-1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
