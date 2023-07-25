@@ -2,6 +2,8 @@
 
  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pavithramurugan15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/pavithramurugan15?trk=profile-badge">Pavithra Murugan</a></div>
+              
 Linkedin Badge Medium Badge Website Badge Twitter Badge Instagram Badge Gmail Badge
 <!--
 **Pavithra-1502/Pavithra-1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
