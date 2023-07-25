@@ -2,7 +2,7 @@
  
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pavithramurugan15" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/pavithramurugan15?trk=profile-badge"><i class="fa fa-linkedin-square" style="font-size:48px;color:blue"></i>Pavithra Murugan </div>
 
-name: Erwin Lejeune
+name: Pavithra Murugan
 
 located_in: Toronto, Canada
 
