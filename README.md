@@ -9,7 +9,7 @@ name: Pavithra Murugan
 
 located_in: Toronto, Canada
 
-from: Chennai (India)
+
 
 job: Web Designer/Developer
 
